@@ -1,0 +1,34 @@
+Accelerate:
+  gradient_accumulation_steps: 0
+
+Data:
+  dataset_name: skin
+  fold: all
+  folds: 8
+  num_genes: 250
+  path: data/skin
+  slides: configs/slides_skin.csv
+
+General:
+  output_dir_base: outputs  
+  seed: 3927
+
+Model:
+  dropout: 0.3
+  beta: 1.5 
+  tau_neg: 0.6 
+  k_neighbors: 32
+  input_dim: 1536
+  num_heads: 8
+  num_layers: 3
+
+Training:
+  epochs: 1500
+  loss_type: mse
+  optimizer:
+    lr: 1e-4
+    weight_decay: 1e-5
+  scheduler:
+    T_max: 100
+    eta_min: 1e-6
+    type: cosine_annealing
