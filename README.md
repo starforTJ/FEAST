@@ -6,6 +6,7 @@
       <a href="https://starfortj.github.io//"><strong>Taejin Jeong<sup>*</sup></strong></a> · 
       <a href="https://kyyle2114.github.io/"><strong>Joohyeok Kim<sup>*</sup></strong></a> · 
       <a href="https://rubato-yeong.github.io/"><strong>Jinyeong Kim</strong></a> · 
+      <a href="https://kochanha.github.io/"><strong>Chanyoung Kim</strong></a> · 
       <a href="https://micv.yonsei.ac.kr/seongjae"><strong>Seong Jae Hwang</strong></a>
     </h3>
     <h3 align="center">
