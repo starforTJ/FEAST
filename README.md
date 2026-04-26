@@ -13,11 +13,10 @@
       Yonsei University
     </h3>
   </p>
-  <br>
 </p>
 <p align="center">
     <a href="https://arxiv.org/abs/2603.25247"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2603.25247-b31b1b.svg"></a>
-  </p>
+</p>
  
 <be>
 
